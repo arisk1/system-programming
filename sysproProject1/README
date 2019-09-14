@@ -1,0 +1,23 @@
+ΚΑΤΩΠΟΔΗΣ ΠΑΝΑΓΙΩΤΗΣ ΑΡΙΣΤΟΜΕΝΗΣ ΑΜ:1115201400068
+ΕΡΓΑΣΙΑ 1
+Periexomena:
+
+-main.c 
+-fuctions.c
+-dio.c
+-fuctions.h
+-dio.h
+-README
+-Makefile
+-----------------------------------------------------------------------------------------
+H ergasia exei oloklhrothei olh kai to proairetiko dump  ektos apo thn top kai to maxheap.
+dokimastike sta linux ths sxolhs kai douleuei kanonika.
+ginetai compile me thn entolh -make
+svinei ta .o kai to ektelesimo me to -make clean 
+allios kanei compile me thn entolh -gcc -o werhauz main.c fuctions.c dio.c -std=gnu99
+trexei me thn entolh :
+./werhauz (-o textX.txt) -h1 HashTableEntries1 -h2 HashTableEntries2 -s BucketSize 
+an iparxei arxeio ektelei kanonika tis entoles tou arxeio kai meta perimenei apo to xristi mia entolh 
+kai kleinei ean dexthei ton eof(CTRL + D).
+an den iparxei arxeio perimenei pao to xristi entolh kai kleinie molis dextei eof(CTRL + D).
+sto kodika iparxoun polla sxolia grammh para grammh.
