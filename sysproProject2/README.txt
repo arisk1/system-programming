@@ -1,5 +1,4 @@
 Katopodis Panagiotis Aristomenis
-AM:1115201400068
 
 ergasia2:
 
